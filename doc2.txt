@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<head>
+<title>web</title>
+</head>
+<body>
+<table border="2px" style="border-collapse:collapse" cellpadding="8px">
+<caption><h2>Web Technologies</h2></caption>
+<tr>
+<th>category</th>
+<th colspan="2">Technology</th>
+<th>Description</th>
+</tr>
+<tr>
+<td rowspan="3">Frontend</td>
+<td>HTML</td>
+<td>5</td>
+<td>Standard markup language for creating web pages</td>
+</tr>
+<tr>
+<td>CSS</td>
+<td>3</td>
+<td>style sheet language used for describing thr presentation of document written in HTML</td>
+</tr>
+<tr>
+<td>Javascript</td>
+<td>ES6</td>
+<td>scripting language used to create and control dynamic website content</td>
+</tr>
+<tr>
+<td rowspan="2">Backend</td>
+<td colspan="2">Nodejs</td>
+<td>JavaScript runtime built on chrome's V8 javascript engine</td>
+</tr>
+<tr>
+<td colspan="2">Django</td>
+<td>High-level python web framework that encourages rapid development ad clean,pragmatic design</td>
+</tr>
+<tr>
+<td rowspan="2">Database</td>
+<td colspan="2">MySQL</td>
+<td>Relational database management system based on SQL-Structured Query Language</td>
+</tr>
+<tr>
+<td colspan="2">MangoDB</td>
+<td>Document oriented  NoSQL database used for high volume data storage</td>
+</tr>
